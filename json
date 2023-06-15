@@ -1,0 +1,26 @@
+{
+  "nombre" : " deporte en línea " ,
+  "privado" : cierto ,
+  "versión" : " 0.0.0 " ,
+  "tipo" : " módulo " ,
+  "guiones" : {
+    "dev" : " vite " ,
+    "construir" : " compilar vite " ,
+    "lint" : " eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0 " ,
+    "vista previa" : " vista previa "
+  },
+  "dependencias" : {
+    "reaccionar" : " ^18.2.0 " ,
+    "reaccionar-dom" : " ^18.2.0 "
+  },
+  "Dependencias de desarrollo" : {
+    "@tipos/reaccionar" : " ^18.0.28 " ,
+    "@types/react-dom" : " ^18.0.11 " ,
+    "@vitejs/plugin-react" : " ^4.0.0 " ,
+    "eslint" : " ^8.38.0 " ,
+    "eslint-plugin-react" : " ^7.32.2 " ,
+    "eslint-plugin-reaccionar-ganchos" : " ^4.6.0 " ,
+    "eslint-plugin-react-refresh" : " ^0.3.4 " ,
+    "invitar" : " ^4.3.2 "
+  }
+}
